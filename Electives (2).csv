@@ -1,0 +1,19 @@
+elective_id,elective_name,type,timetable_slot,prerequisites,difficulty,weekly_hours,career_tags,skill_tags
+E01,Artificial Intelligence,Technical,Mon-9AM,Python;Mathematics,4,4,AI;Research,Machine Learning
+E02,Machine Learning,Technical,Tue-9AM,Python;Mathematics,5,5,AI;Data Science,Prediction
+E03,Cloud Computing,Technical,Wed-10AM,Computer Networks,3,3,Cloud;IT,AWS
+E04,Cyber Security,Technical,Thu-10AM,Computer Networks,4,4,Security;IT,Ethical Hacking
+E05,Data Analytics,Technical,Fri-9AM,Python;Statistics,3,3,Data Science;Analytics,Data Analysis
+E06,Web Development,Technical,Mon-11AM,Programming,2,3,Development,HTML;CSS;JavaScript
+E07,Entrepreneurship,Management,Tue-11AM,None,3,2,Business;Startup,Innovation
+E08,Project Management,Management,Wed-11AM,None,3,2,Management;IT,Leadership
+E09,Digital Marketing,Management,Thu-11AM,None,2,3,Marketing;Business,SEO
+E10,Financial Management,Management,Fri-11AM,Basic Accounting,4,3,Finance;Business,Finance
+E11,Communication Skills,Skill,Mon-2PM,None,1,2,Communication,Speaking
+E12,Leadership Skills,Skill,Tue-2PM,None,2,2,Leadership,Teamwork
+E13,Critical Thinking,Skill,Wed-2PM,None,2,2,Problem Solving,Decision Making
+E14,Creative Thinking,Skill,Thu-2PM,None,2,2,Creativity,Innovation
+E15,Business Communication,Skill,Fri-2PM,None,2,2,Business;Communication,Presentation
+E16,Deep Learning,Technical,Tue-4PM,Artificial Intelligence;Mathematics,5,5,AI;Research,Neural Networks
+E17,Database Management,Technical,Wed-4PM,Programming,3,3,Database;IT,SQL
+E18,UI UX Design,Technical,Thu-4PM,None,2,3,Design;Development,Figma

@@ -1,0 +1,13 @@
+student_id,name,goal,CGPA,subjects_cleared,weak_subjects,workload_preference,required_Technical,required_Management,required_Skill
+S001,Aarav,AI Research,8.8,Python;Mathematics;Programming,Statistics,High,2,1,1
+S002,Ananya,Data Science,8.2,Python;Statistics;Mathematics,Computer Networks,Medium,2,1,1
+S003,Rohan,Cyber Security,7.5,Programming;Computer Networks,Mathematics,Low,2,1,1
+S004,Priya,Business,9.1,Basic Accounting;Programming,Statistics,High,1,2,1
+S005,Rahul,Web Development,7.8,Programming;Python,Mathematics,Medium,2,1,1
+S006,Sneha,Management,8.5,Programming;Basic Accounting,Computer Networks,Low,1,2,1
+S007,Aditya,Cloud Computing,8.0,Computer Networks;Programming,Statistics,Medium,2,1,1
+S008,Kavya,AI Research,9.3,Python;Mathematics;Programming,Computer Networks,High,2,1,1
+S009,Arjun,Finance,7.2,Basic Accounting;Statistics,Python,Low,1,2,1
+S010,Ishita,Digital Marketing,8.7,Programming;Statistics,Mathematics,Medium,1,2,1
+S011,Vikram,Data Science,8.9,Python;Mathematics;Statistics,Computer Networks,High,2,1,1
+S012,Meera,UI UX Design,7.9,Programming,Mathematics,Low,2,1,1
